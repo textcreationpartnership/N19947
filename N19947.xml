@@ -108,14 +108,15 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:026103_0000_0FCF8C9F64FF15A8"/>
-            <pb facs="tcp:026103_0001_0FCFAD6952B83898"/>
+            <pb facs="unknown:026103_0000_0FCF8C9F64FF15A8"/>
+            <pb facs="unknown:026103_0001_0FCFAD6952B83898"/>
             <p>THE YORKER'S STRATAGEM; OR BANANA'S WEDDING. A FARCE, IN TWO ACTS. AS PERFORMED AT THE THEATRE IN NEW-YORK, BY THE Old American Company of Comedians, WITH UNIVERSAL APPLAUSE.</p>
             <p>By <hi>J. ROBINSON,</hi> Comedian.</p>
             <p>NEW-YORK: Printed by T. &amp; J. SWORDS, No. 27, William-Street. —1792.—</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:026103_0002_0FCFAD67E81C9DA0" rendition="simple:additions"/>
+            <pb facs="unknown:026103_0002_0FCFAD67E81C9DA0"
+                rendition="simple:additions"/>
             <head>TO THE PUBLIC.</head>
             <p>THE Author of the following little Piece is ſenſible of its numerous defects—it was got up in a hurry, and under many diſadvanta<g ref="char:EOLhyphen"/>ges. The very flattering marks of approbation, however, with which it was received, together with the preſſing importunities of many friends, have led him to ſuppoſe that a publication of it would not be unpleaſing.</p>
             <p>To the generous Patrons of the Drama, and to the worthy Sons of Columbia who feel an in<g ref="char:EOLhyphen"/>tereſt in the welfare of the American Stage, the <hi>YORKER'S STRATAGEM</hi> is moſt reſpectfully de<g ref="char:EOLhyphen"/>dicated: and the Author is not without hopes, that this feeble attempt, defective as it is, will meet an apology from every generous heart for its introduction into the world.</p>
@@ -124,7 +125,7 @@
             </closer>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:026103_0003_0FCFAD66522F8C50"/>
+            <pb facs="unknown:026103_0003_0FCFAD66522F8C50"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <label>Banana,</label>
@@ -160,7 +161,8 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:026103_0004_0FCFAD6504211D18" rendition="simple:additions"/>
+            <pb facs="unknown:026103_0004_0FCFAD6504211D18"
+                rendition="simple:additions"/>
             <head>THE YORKER'S STRATAGEM.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -202,7 +204,7 @@
                      <p>I have, Sir, and wiſh'd to aſk you particu<g ref="char:EOLhyphen"/>larly about her, but was afraid it might offend.</p>
                   </sp>
                   <sp>
-                     <pb n="6" facs="tcp:026103_0005_0FCF8C9D9D0248E8"/>
+                     <pb n="6" facs="unknown:026103_0005_0FCF8C9D9D0248E8"/>
                      <speaker>Amant.</speaker>
                      <p>Her name is Sophia Bellange, a native of this country; her parents are lately dead. 'Tis a letter from her ſince her arrival here that was the cauſe of my cloſ<g ref="char:EOLhyphen"/>ing my affairs at home, and undertaking this journey. She deſcribes her guardian to be avaricious, and totally deſtitute of principle, conſtantly employed in every war<g ref="char:EOLhyphen"/>rantable theft that the ſimplicity or imprudence of his neighbours will permit him to practiſe.</p>
                   </sp>
@@ -259,7 +261,7 @@ Houſe, houſe, who keeps houſe here? Won't that do?</p>
                      <p>I beg your pardon, Sir, we have no other ap<g ref="char:EOLhyphen"/>ple here except the couſhooe.</p>
                   </sp>
                   <sp>
-                     <pb n="7" facs="tcp:026103_0006_0FCFAD634B65ADC8"/>
+                     <pb n="7" facs="unknown:026103_0006_0FCFAD634B65ADC8"/>
                      <speaker>Amant.</speaker>
                      <p>Don't tell me about your cow ſhoe, nor your horſe ſhoe, I'll not put up with any of your half laughs, I'll be dur if I do, and that's point blank.</p>
                   </sp>
@@ -340,7 +342,7 @@ Lord! Lord! what an aſs you are.</p>
                      <p>They talk in our parts that he buys ſuper-cargoes.</p>
                   </sp>
                   <sp>
-                     <pb n="8" facs="tcp:026103_0007_0FCF8C9A23299A28"/>
+                     <pb n="8" facs="unknown:026103_0007_0FCF8C9A23299A28"/>
                      <speaker>Acid.</speaker>
                      <p>
                         <stage>(Aſide.)</stage>
@@ -403,7 +405,7 @@ Then you think I may do in this country?</p>
                   <stage>Exit all.</stage>
                </div>
                <div n="2" type="scene">
-                  <pb n="9" facs="tcp:026103_0008_0FCFAD61F50F5FC0"/>
+                  <pb n="9" facs="unknown:026103_0008_0FCFAD61F50F5FC0"/>
                   <head>SCENE II.</head>
                   <stage>
                      <hi>Mr.</hi> Fingercaſh's <hi>houſe. Mr. and Mrs.</hi> Fingercaſh.</stage>
@@ -462,7 +464,7 @@ I ſhall now get rid of a prying impudent ſtep-daughter.</p>
                      <p>You have brought ſome lumber then?</p>
                   </sp>
                   <sp>
-                     <pb n="10" facs="tcp:026103_0009_0FCFAD600A956190"/>
+                     <pb n="10" facs="unknown:026103_0009_0FCFAD600A956190"/>
                      <speaker>Acid.</speaker>
                      <p>If you get him to anſwer that or any other queſ<g ref="char:EOLhyphen"/>tion in a direct manner, I'll forfeit a dozen of my beſt claret.</p>
                   </sp>
@@ -526,7 +528,7 @@ Would you be ſo obliging, Sir, as to favour me with a ſight of your invoice, o
                      <p>Heavens! the ſight of her has ſo diſconcerted me, I ſhall never be able to go through with it.</p>
                   </sp>
                   <sp>
-                     <pb n="11" facs="tcp:026103_0010_0FCFAD5BCBB8F230"/>
+                     <pb n="11" facs="unknown:026103_0010_0FCFAD5BCBB8F230"/>
                      <speaker>Mr. Fingercaſh.</speaker>
                      <p>Where are you going, my dear?</p>
                   </sp>
@@ -587,7 +589,7 @@ Coobity, coobity, coobity. Oh Lord, what ſhall I do? I muſt never look daddy i
                      <p>Come, Louiſa, this man may perhaps give me ſome information of my Amant; his ſimplicity will afford you a laugh at leaſt. Pray, friend, how does all at home do?</p>
                   </sp>
                   <sp>
-                     <pb n="12" facs="tcp:026103_0011_0FCFAD5AE2454508"/>
+                     <pb n="12" facs="unknown:026103_0011_0FCFAD5AE2454508"/>
                      <speaker>Amant.</speaker>
                      <p>Ay, now Miſs, you ſpeak as if you had been born in a chriſtian country. Our folks are a ſort of ſo, and a ſort of not ſo; ſiſter Jemima has got the mumps, and brother Ebby's heels are all over kibes; all well be<g ref="char:EOLhyphen"/>ſides.</p>
                   </sp>
@@ -645,7 +647,7 @@ Captain, your ſupercargo ſeems to do better with the young ladies than with my
                      <p>Heavens, my Amant! Lend me your hand, Louiſa.</p>
                   </sp>
                   <sp>
-                     <pb n="13" facs="tcp:026103_0012_0FCFAD59083570C0"/>
+                     <pb n="13" facs="unknown:026103_0012_0FCFAD59083570C0"/>
                      <speaker>Amant.</speaker>
                      <p>Curſed impatience, I am diſcovered.</p>
                   </sp>
@@ -722,7 +724,7 @@ how bleſt am I to preſs this hand unſeen by other eyes than thoſe of friend�
                      <p>Sure you do not doubt my ſincerity?</p>
                   </sp>
                   <sp>
-                     <pb n="14" facs="tcp:026103_0013_0FCFAD56A9211168"/>
+                     <pb n="14" facs="unknown:026103_0013_0FCFAD56A9211168"/>
                      <speaker>Amant.</speaker>
                      <p>I never did till you began to ſpeak of obſtacles.</p>
                   </sp>
@@ -785,7 +787,7 @@ how bleſt am I to preſs this hand unſeen by other eyes than thoſe of friend�
                   <sp>
                      <speaker>Louiſa.</speaker>
                      <p>Come, come, pleaſe to lay aſide your love and ſentiment for a period that I hope is not far off, and re-aſſume your character of Jonathan, which you perſon<g ref="char:EOLhyphen"/>ate
-<pb n="15" facs="tcp:026103_0014_0FCFAD55302F7EB8"/>
+<pb n="15" facs="unknown:026103_0014_0FCFAD55302F7EB8"/>
 ſo well; a thought has ſtruck me, that with the aſſiſt<g ref="char:EOLhyphen"/>ance of a dying ſwain (who I will this moment intro<g ref="char:EOLhyphen"/>duce you to) we may all of us be enabled to ſet ſail for your country, where Virtue gives diſtinction, Induſtry wealth; and where, like Majeſty Divine, the hand that can deal thunder to uſurping foes, diſtributes the bleſ<g ref="char:EOLhyphen"/>ſings of Liberty and Concord to his fellow citizens, by the juſtice and wiſdom of his laws.</p>
                   </sp>
                </div>
@@ -828,7 +830,7 @@ how bleſt am I to preſs this hand unſeen by other eyes than thoſe of friend�
                      <p>Ah, Madame, ſi je puis parle l'Englois comme je parle la François l'ardeur of my language, vould kiſs you very ſoul.</p>
                   </sp>
                   <sp>
-                     <pb n="16" facs="tcp:026103_0015_0FCFAD53C96EB028"/>
+                     <pb n="16" facs="unknown:026103_0015_0FCFAD53C96EB028"/>
                      <speaker>Mrs. Fingercaſh.</speaker>
                      <p>What animated notions of the paſ<g ref="char:EOLhyphen"/>ſion of love you Frenchmen have?</p>
                   </sp>
@@ -882,7 +884,7 @@ Ecouté donc no forget de coffre fort, de ſtronga box.</p>
                      <lg>
                         <l>As I was a goin a long, Priſcilla come for take me,</l>
                         <l>
-                           <pb n="17" facs="tcp:026103_0016_0FCFAD525C406FE8"/>I take my tick <gap reason="illegible: indecipherable" extent="1 word">
+                           <pb n="17" facs="unknown:026103_0016_0FCFAD525C406FE8"/>I take my tick <gap reason="illegible: indecipherable" extent="1 word">
                               <desc>〈◊〉</desc>
                            </gap> brake he head, and that the way for whack he.</l>
                         <l>ty,</l>
@@ -995,7 +997,7 @@ O Lord, oh!</p>
                      <p>You mullatto Seaſar, go tell de obaſeer for come turn dis imperence huſſy out of doors.</p>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:026103_0017_0FCFAD5023315A88"/>
+                     <pb n="18" facs="unknown:026103_0017_0FCFAD5023315A88"/>
                      <speaker>Priſcilla.</speaker>
                      <p>Lard a mighty in a tap, me poor one in a buckra country; you eber been hear de like of dat—me da imperence huſſy—eh—who da you?</p>
                   </sp>
@@ -1072,7 +1074,7 @@ Bery well, read dat dere for you young maſſa.</p>
                               <salute>MADAM,</salute>
                            </opener>
                            <p>I have well weighed your propoſals, and have at length determined your ſon ſhall have my daughter. Altho' ſhe ſeems extremely averſe to the union, time may reconcile her to the huſband. Be that as it will, if you are willing to run the riſque, ſhe ſhall not diſpute my authority. The ſooner the ceremony is over the better, as delays are
-<pb n="19" facs="tcp:026103_0018_0FCFAD49083A6648"/>
+<pb n="19" facs="unknown:026103_0018_0FCFAD49083A6648"/>
 dangerous with obſtinate children—If you have no ob<g ref="char:EOLhyphen"/>jections, this evening would be moſt agreeable to your obedient ſervant,</p>
                            <closer>
                               <signed>J. FINGERCASH.</signed>
@@ -1137,7 +1139,7 @@ how do you do, ma'm? how do you do, ſa'ar? how do young lady do?</p>
                      <p>Well, Miſs Pert, what are your rea<g ref="char:EOLhyphen"/>ſons why you will not marry this ignoramus, as you call him, who is as rich as a Jew?</p>
                   </sp>
                   <sp>
-                     <pb n="20" facs="tcp:026103_0019_0FCFAD47AB2C8168"/>
+                     <pb n="20" facs="unknown:026103_0019_0FCFAD47AB2C8168"/>
                      <speaker>Louiſa.</speaker>
                      <p>My deareſt father, can you aſk me that queſ<g ref="char:EOLhyphen"/>tion? Does not the difference of our education plead moſt powerfully againſt it, in breaking the laws of deli<g ref="char:EOLhyphen"/>cacy and ſociety, by joining two perſons whoſe ſouls are ſo very oppoſite in ſentiment?</p>
                   </sp>
@@ -1206,7 +1208,7 @@ how do you do, ma'm? how do you do, ſa'ar? how do young lady do?</p>
                      <p>One? ay, a thouſand to get the hand<g ref="char:EOLhyphen"/>ling of my ſtrong box, and leave to make an entry into the heart of that young lady.</p>
                   </sp>
                   <sp>
-                     <pb n="21" facs="tcp:026103_0020_0FCFAD4613D3CE40"/>
+                     <pb n="21" facs="unknown:026103_0020_0FCFAD4613D3CE40"/>
                      <speaker>Louiſa.</speaker>
                      <p>That he has already done, and no power on earth ſhall ever eraſe it.</p>
                   </sp>
@@ -1253,7 +1255,7 @@ Well friend N<gap reason="illegible: indecipherable" extent="2 letters">
                      <p>I am bewitched, I wiſh I never had left daddy.</p>
                   </sp>
                   <sp>
-                     <pb n="22" facs="tcp:026103_0021_0FCFAD4488D1E770"/>
+                     <pb n="22" facs="unknown:026103_0021_0FCFAD4488D1E770"/>
                      <speaker>Mr. Fingercaſh.</speaker>
                      <p>What, has any of the Negroes been practiſing their obeo on you?</p>
                   </sp>
@@ -1322,7 +1324,7 @@ Well friend N<gap reason="illegible: indecipherable" extent="2 letters">
                      <p>'Tis too true. Now, as the young fellow is of a good family, I would not wiſh him to come to public ſhame; if you will carry him home with you, you ſhall have my conſent to marry Miſs Bellange, and that will be the making of your fortune.</p>
                   </sp>
                   <sp>
-                     <pb n="23" facs="tcp:026103_0022_0FCF8C99624CEA10"/>
+                     <pb n="23" facs="unknown:026103_0022_0FCF8C99624CEA10"/>
                      <speaker>Amant.</speaker>
                      <p>Eh, Captain, what ſhall I do?</p>
                   </sp>
@@ -1389,7 +1391,7 @@ Gentlemen, I'll go and prepare your caſh for you.
                   <sp>
                      <speaker>Amant.</speaker>
                      <p>Yes, faith, but the Frenchman's' intrigue crowns all; that ſecret will command what terms I pleaſe for myſelf, and Ledger too I hope. He has wrote to the Governor on the tyranny of the old gentleman's forcing his daughter to a prepoſterous match with Bana<g ref="char:EOLhyphen"/>na,
-<pb n="24" facs="tcp:026103_0023_0FCFAD4363F15310"/>
+<pb n="24" facs="unknown:026103_0023_0FCFAD4363F15310"/>
 ſo we muſt wait his arrival before we open our plot. You have got poſſeſſion of the ſtrong box, the coffre fort?</p>
                   </sp>
                   <sp>
@@ -1455,7 +1457,7 @@ and me of his mo<g ref="char:EOLhyphen"/>ney.</p>
                      <p>Shut you mout.</p>
                   </sp>
                   <sp>
-                     <pb n="25" facs="tcp:026103_0024_0FCF8C8CC9D3AFA0"/>
+                     <pb n="25" facs="unknown:026103_0024_0FCF8C8CC9D3AFA0"/>
                      <speaker>Banana.</speaker>
                      <p>Yes, no bex yere.</p>
                   </sp>
@@ -1518,7 +1520,7 @@ Lud, mamma, I no ſabby do um.</p>
 Suppoſe you no bex, I will tell you one tory; I lobe a you, I lobe a you, like peppa pot my heart da burn, a burn a like a fire coal, put you yi ſweet upon me, ſorry fo' me, ſorry fo' me, ſorry fo' me do, or I da go dead like a one pig.</p>
                   </sp>
                   <stage>
-                     <pb n="26" facs="tcp:026103_0025_0FCFAD400EAFEEF8"/>
+                     <pb n="26" facs="unknown:026103_0025_0FCFAD400EAFEEF8"/>
                      <hi>Enter</hi> Ledger <hi>from a cloſet, with a piſtol.</hi>
                   </stage>
                   <sp>
@@ -1619,7 +1621,7 @@ Now go on.</p>
 Lod, I want fo' beg you one ſometing.</p>
                   </sp>
                   <sp>
-                     <pb n="27" facs="tcp:026103_0026_0FCFAD3C1E5C4338"/>
+                     <pb n="27" facs="unknown:026103_0026_0FCFAD3C1E5C4338"/>
                      <speaker>Ledger.</speaker>
                      <p>What's that?</p>
                   </sp>
@@ -1693,7 +1695,7 @@ Louiſa, Louiſa.</p>
                      <p>No; I have been looking for her to get her to ſpeak a good word for me when I am gone.</p>
                   </sp>
                   <sp>
-                     <pb n="28" facs="tcp:026103_0027_0FCFAD38916DF1D0"/>
+                     <pb n="28" facs="unknown:026103_0027_0FCFAD38916DF1D0"/>
                      <speaker>Mr. Fingercaſh.</speaker>
                      <p>I wiſh you was ſafe gone, and that villain Ledger along with you. Would you believe it, not content with robbing me, he keeps lurking about with an intention to run away with my daughter; her maid has betrayed them, and gave me this note, appoint<g ref="char:EOLhyphen"/>ing a rendezvous. Now, my dear fellow, to prove yourſelf worthy of my friendſhip and Miſs Bellange's love, be you and your ſailors ready to go along with me, and we'll there gag him and carry him on board.</p>
                   </sp>
@@ -1743,7 +1745,7 @@ No, I'll not truſt her 'till 'tis all over.—My dear, I have a preſ<g ref="ch
 Oh, you are ready, I ſee; my daughter and I will call on you in an inſtant. Remember, you muſt turn me out of the coach as ſoon as we loſe ſight of the houſe.</p>
                   </sp>
                   <sp>
-                     <pb n="29" facs="tcp:026103_0028_0FCFAD37137C4FD0"/>
+                     <pb n="29" facs="unknown:026103_0028_0FCFAD37137C4FD0"/>
                      <speaker>Ledger.</speaker>
                      <p>Is the old gentleman ſecured?</p>
                   </sp>
@@ -1813,7 +1815,7 @@ that's the dandy!</p>
                   </sp>
                   <stage>[The time he is beating the Frenchman Mrs. Fingercaſh<g ref="char:punc">▪</g> enters, and goes off again unperceived.]</stage>
                   <stage>
-                     <pb n="30" facs="tcp:026103_0029_0FCFAD359A88DCA8"/>
+                     <pb n="30" facs="unknown:026103_0029_0FCFAD359A88DCA8"/>
                      <hi>Scene changes to a Chamber in Mr.</hi> Fingercaſh's <hi>houſe. Miſs</hi> Bellange <hi>and</hi> Governor <hi>ſeated.</hi>
                   </stage>
                   <sp>
@@ -1873,7 +1875,7 @@ I am ſorry, Sir, I am not at liberty to give you my beſt welcome in this houſ
                      <p>Peace, man; ſwear to whatever I ſay, and you ſhall have Miſs Bellange, and her fortune into the bargain, whether ſhe will or not.</p>
                   </sp>
                   <sp>
-                     <pb n="31" facs="tcp:026103_0030_0FCFAD328C674718"/>
+                     <pb n="31" facs="unknown:026103_0030_0FCFAD328C674718"/>
                      <speaker>Amant.</speaker>
                      <p>You may depend upon me, Sir; I'll ſtand by you, till you get your deſerts, you ſcoundrel.
 <stage>(Aſide.)</stage>
@@ -1953,7 +1955,7 @@ I am ſorry, Sir, I am not at liberty to give you my beſt welcome in this houſ
                   </sp>
                   <stage>The Frenchman ſtarts and kneels.</stage>
                   <sp>
-                     <pb n="32" facs="tcp:026103_0031_0FCF8C8A89EE7330"/>
+                     <pb n="32" facs="unknown:026103_0031_0FCF8C8A89EE7330"/>
                      <speaker>Frenchman.</speaker>
                      <p>Mon General.</p>
                   </sp>
@@ -2019,7 +2021,7 @@ I ax pardon, my aminition been make me fool, I no been know myſelf, no puniſh 
                      <p>Lard, mumma, take care, maſſa Ledger been promiſe to bang you, he will pay you well.</p>
                   </sp>
                   <sp>
-                     <pb n="33" facs="tcp:026103_0032_0FCFAD312EF531C8"/>
+                     <pb n="33" facs="unknown:026103_0032_0FCFAD312EF531C8"/>
                      <speaker>Ledger.</speaker>
                      <p>No, Banana, your goodneſs—</p>
                   </sp>
@@ -2086,7 +2088,7 @@ I believe, Sir, mine ſtands firſt upon the liſt.
                      <p>You find, Sir, from your ungovernable de<g ref="char:EOLhyphen"/>ſire of riches, you not only put people upon their guard againſt you, but oblige them to deſcend to the loweſt arts, to defeat you in your villainy. To ſuch a degrad<g ref="char:EOLhyphen"/>ing ſtate of infamy did you lower yourſelf, that you made even your wife and child abhor you as a monſter that knew no diſtinction of either appetite or ſentiment: that abhorrence gave riſe to inconſtancy in the one, and diſobedience in the other. The only atonement you can now make for your paſt errors, is to return to the paths of honour and honeſty, and by your endeavours to make your family happy, be reinſtated in their loves.</p>
                   </sp>
                   <sp>
-                     <pb n="34" facs="tcp:026103_0033_0FCFAD2F9C03A568"/>
+                     <pb n="34" facs="unknown:026103_0033_0FCFAD2F9C03A568"/>
                      <speaker>Mr. Fingercaſh.</speaker>
                      <p>Your words are backed with truth and ſound reaſon, and I'm become their convert. I humbly beg pardon for the trouble I have given you: But if you and this good company will bury in oblivion my paſt errors, and thoſe of the YORKER'S STRATAGEM, I ſhall for the future only exiſt in meriting your—no—
 <stage>(<hi>to the audience</hi>)</stage>
